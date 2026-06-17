@@ -1,3 +1,7 @@
+I have upgraded the application to the AI Startup Validator — VC Ultra Pro System. It is now a venture-capital-grade AI intelligence dashboard with a modern dark theme. Key Improvements: Integrated Gemini 2.5 Pro for deep startup idea evaluation using strict system rules. Implemented a strict JSON schema with TypeScript for reliable, structured AI
+
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
